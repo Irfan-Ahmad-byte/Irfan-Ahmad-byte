@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irfan-Ahmad-byte
 - 👀 I’m interested in Data Science and Bioinformatics
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science besides working on Django+Vue
 - 📫 How to reach me 
 
  [![Twitter][1.2]][1]

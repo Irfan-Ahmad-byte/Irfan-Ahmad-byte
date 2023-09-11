@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Irfan-Ahmad-byte
-- 👀 I’m interested in Data Science and Bioinformatics
-- 🌱 I’m currently learning Data Science besides working on Django+Vue
+- 👀 I’m interested in Data Science, Bioinformatics, and AI
+- ** 2.5 years of experience as a Python developer and 1.5 years in Chatbot development
+- 🌱 I’m currently learning Data Science besides working on backend development/chatbot development and integration
 - 📫 How to reach me 
 
  [![Twitter][1.2]][1]

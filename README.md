@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Irfan-Ahmad-byte
-- 👀 I’m interested in Data Science, Bioinformatics, and AI
-- ** 2.5 years of experience as a Python developer and 1.5 years in Chatbot development
-- 🌱 I’m currently learning Data Science besides working on backend development/chatbot development and integration
+- 👀 I’m a Data Scientist in Bioinformatics, AI and Data Enthusiast, Seasoned Microservices developer
+- ** 4 years of Experience in development:
+- - 4 years with Python
+  - 2 year in ML
+  - 2 years in Chatbot development
+  - 1.5 year in LangChain and OpenAI
+  - 2.5 years in Microservices
+- 🌱 I have worked on quite a number of projects, which made me a pro in Github
 - 📫 How to reach me 
 
  [![Twitter][1.2]][1]

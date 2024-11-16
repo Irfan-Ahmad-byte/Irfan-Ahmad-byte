@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Backend Engineer at crypsol.dev.
+I'm currently working as Backend Engineer at a Dubai based tech company.
 
 
 ## 🌐 Socials:

@@ -3,7 +3,7 @@ I'm a Backend Engineer with 4 years of experience in Python and 1 year in Rust. 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanahmad-com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@irfan-ahmad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15004708) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IrfanAhmad1707) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanahmad-com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@irfan-ahmad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15004708) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IrfanAhmad1707) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c796af13a5cc653f)
 
 # 💻 Tech Stack:
 

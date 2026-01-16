@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Backend Engineer with 4 years of experience in Python and 1 year in Rust. I specialize in building scalable, efficient, and secure backend systems. Currently, I work as a backend engineer at a Dubai-based tech company, leveraging my expertise to deliver robust solutions.
+I'm a Backend Engineer having 6 years of experience with Python and 3 years with Rust. I specialize in building scalable, efficient, and secure backend systems. Currently, I work as a backend engineer at a Dubai-based tech company, leveraging my expertise to deliver robust solutions.
 
 
 ## 🌐 Socials:
